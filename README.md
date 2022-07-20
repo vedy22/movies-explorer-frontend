@@ -1,5 +1,6 @@
 # movies-explorer-frontend
 
+<<<<<<< Updated upstream
 # diplom.nomoredomains.sbs
 
 ***Реализованный функционал на React:**
@@ -17,3 +18,6 @@
 * CSS 3
 * FlexBox
 * Адаптивная, кроссбраузерная верстка
+=======
+# https://diplom.nomoredomains.sbs
+>>>>>>> Stashed changes
