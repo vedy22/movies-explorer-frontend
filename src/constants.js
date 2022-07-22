@@ -1,5 +1,5 @@
 export const BASE_MOVIES_URL = "https://api.nomoreparties.co";
-export const BASE_MAIN_URL = "https://tatyana22.online";
+export const BASE_MAIN_URL = "https://api.diplom.nomoredomains.sbs";
 
 export const SHORT_MOVIE_DURATION = 40;
 export const COUNT_DISPLAYED_MOVIES_DESKTOP = 12;
