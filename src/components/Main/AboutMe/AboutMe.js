@@ -11,24 +11,22 @@ function AboutMe() {
 
       <div className="student__info">
         <div className="student__left-block">
-          <h3 className="student__name">Виталий</h3>
-          <p className="student__about">Фронтенд-разработчик, 30 лет</p>
+          <h3 className="student__name">Татьяна</h3>
+          <p className="student__about">Фронтенд-разработчик, 32 года</p>
           <p className="student__description">
-            Я родился и живу в Саратове, закончил факультет экономики СГУ. У
-            меня есть жена и дочь. Я люблю слушать музыку, а ещё увлекаюсь
-            бегом. Недавно начал кодить. С 2015 года работал в компании «СКБ
-            Контур». После того, как прошёл курс по веб-разработке, начал
-            заниматься фриланс-заказами и ушёл с постоянной работы.
+            Я родилась в Чехове. Живу в Москве, закончила факультет финансы и кредит в РГСУ. Я люблю танцевать.
+            Недавно начала кодить. После того, как пройду курс по веб-разработке, планирую
+            заниматься фриланс-заказами и уйти с постоянной работы.
           </p>
           <ul className="student__links">
             <li className="student__link">
               <a
-                href="https://facebook.com/"
+                href="https://t.me/Lory559"
                 target="_blank"
                 className="project__link"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Telegram
               </a>
             </li>
             <li className="student__link">

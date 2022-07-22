@@ -34,12 +34,12 @@ function Footer() {
                     </li>
                     <li className="footer__links-item">
                         <a
-                            href="https://facebook.com"
+                            href="https://t.me/Lory559"
                             target="_blank"
                             className="project__link-border"
                             rel="noopener noreferrer"
                         >
-                            Facebook
+                            Telegram
                         </a>
                     </li>
                 </ul>
