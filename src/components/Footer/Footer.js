@@ -34,12 +34,12 @@ function Footer() {
                     </li>
                     <li className="footer__links-item">
                         <a
-                            href="https://t.me/Lory559"
+                            href="https://wa.me/79035559470"
                             target="_blank"
                             className="project__link-border"
                             rel="noopener noreferrer"
                         >
-                            Telegram
+                            WhatsApp
                         </a>
                     </li>
                 </ul>
