@@ -12,7 +12,7 @@ function AboutMe() {
       <div className="student__info">
         <div className="student__left-block">
           <h3 className="student__name">Татьяна</h3>
-          <p className="student__about">Front-end developer, 32 года</p>
+          <p className="student__about">Web-developer, 32 года</p>
           <p className="student__description">
             Я родилась в Чехове. Живу в Москве, закончила факультет финансы и кредит в РГСУ. Я люблю танцевать.
             Недавно начала кодить. После того, как пройду курс по веб-разработке, планирую
